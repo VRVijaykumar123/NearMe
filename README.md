@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 19/10/2023
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -49,8 +49,9 @@ shape="rect">
     </map>
 </body>
 </html>
-
+```
 ## station.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -79,8 +80,10 @@ shape="rect">
 
 </body>
 </html>
-
+```
 ## rajali.html
+
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -139,8 +142,9 @@ shape="rect">
 
 </body>
 </html>
-
+```
 ## cinema.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -169,8 +173,9 @@ shape="rect">
 
 </body>
 </html>
-
+```
 ## bus.html
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -202,6 +207,17 @@ shape="rect">
 ```
 
 ## OUTPUT
+![nearmap](https://github.com/VRVijaykumar123/NearMe/assets/133218255/cb9ec955-1025-4115-a250-ea2e7329b3aa)
+![map new1](https://github.com/VRVijaykumar123/NearMe/assets/133218255/b073dd16-2b59-41c6-91c9-878ec2d76aae)
+![map new2](https://github.com/VRVijaykumar123/NearMe/assets/133218255/8d171ca0-8c59-4dab-87b1-6367ef63af5a)
+![map new3](https://github.com/VRVijaykumar123/NearMe/assets/133218255/dadba953-d5cc-424c-9ff8-5543c8d46bc5)
+![map new4](https://github.com/VRVijaykumar123/NearMe/assets/133218255/e043c427-e8b6-4bf2-b681-607f07404b4c)
+![map new5](https://github.com/VRVijaykumar123/NearMe/assets/133218255/758d8b4e-8267-4aaa-a2fa-41231d6e016e)
+
+
+
+
+
 
 
 
